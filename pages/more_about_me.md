@@ -9,3 +9,5 @@ My journey into art started in a specialized secondary school with an artistic f
 I had zero experience in Adobe programs, but I set an ambitious goal. Through two months of intense, focused self-study, I managed to build a portfolio and successfully gain admission to design school. It was during my studies that I took a UI/UX Design course, and I immediately knew I had found my niche. This field is the perfect marriage of my analytical mind and my creative drive to craft convenient, seamless, and human-centered digital products.
 
 Outside of design, I actively pursue my creative side as a model, which sharpens my eye for composition, lighting, and visual storytelling—skills that directly enhance my digital work. This, combined with developing my personal brand on social media, allows me to constantly explore diverse contexts of visual communication, connecting and inspiring others through both my presence and my projects.
+
+- [Back to the main page](https://smantser2000-sketch.github.io/english-for-designers/)
