@@ -4,7 +4,7 @@ About me
 ---
 Hello! I’m Mary, a multi-talented creative professional. My expertise lies in UI/UX Design and Digital Art, focusing on translating complex visions into seamless, user-friendly designs. My workflow is built on empathy, ensuring strong connections and effective results. Additionally, I'm a model and a budding content creator, always exploring new ways to connect and inspire.
 
-[More about me](https://smantser2000-sketch.github.io/english-for-designers/pagest/more_about_me)
+[More about me](https://smantser2000-sketch.github.io/english-for-designers/pages/more_about_me)
 
 Сontact me at smantsar.maryia@gmail.com or LinkedIn.
 
